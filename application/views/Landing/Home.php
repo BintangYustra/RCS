@@ -6,7 +6,7 @@
     <div class="container col-8" id="Main">
 
         <div class="card-body">
-          <h2>tes</h2>
+          <h2>Vision</h2>
         </div>
 
     </div>
